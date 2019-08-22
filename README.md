@@ -7,8 +7,7 @@ If you use the code, pleace cite the following [paper]():
 ```
 @inproceedings{zhang2019fewshot,
   title={Improving Few-shot Text Classification via Pretrained Language Representations},
-  author={},
-
+  author={Ningyu Zhang, Zhanlin Sun, Shumin Deng, Jiaoyan Chen, Huajun Chen},
   year={2019}
 }
 ```
