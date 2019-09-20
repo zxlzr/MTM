@@ -1,4 +1,4 @@
-# FewShot Text Clasiification
+# Meta-pretraining Then Meta-learning (MTM) Model for FewShot NLP Tasks 
 
 The source codes of the paper "Improving Few-shot Text Classification via Pretrained Language Representations" and "When Low Resource NLP Meets Unsupervised Language Model:  Meta-pretraining Then Meta-learning for Few-shot Text Classification".
 
