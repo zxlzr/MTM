@@ -4,7 +4,7 @@
 
 The source codes of the paper "Improving Few-shot Text Classification via Pretrained Language Representations" and "When Low Resource NLP Meets Unsupervised Language Model:  Meta-pretraining Then Meta-learning for Few-shot Text Classification".
 
-If you use the code, pleace cite the following [paper](https://arxiv.org/abs/1908.08788):
+If you use the code, pleace cite the following [paper]():
 
 ```
 @inproceedings{deng2020low,
